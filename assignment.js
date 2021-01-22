@@ -1,3 +1,4 @@
+// https://github.com/fahmida4/assignment_3
 
 
 //Problem Number One----------------------------------->
@@ -65,8 +66,10 @@ function hotelCost(day){
 
 
 
-//Problem number Four---------------------------------------------------->
 
+
+
+//Problem number Four---------------------------------------------------->
 
 
 function megaFriend(strs) {
