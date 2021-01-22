@@ -1,3 +1,6 @@
+
+
+//Problem Number One----------------------------------->
 function kilometerToMeter(km){
   if(km <=0){
       return 1;
@@ -7,8 +10,8 @@ else{
     return  meter;
 }
 }
- var result1 = kilometerToMeter(-5);
- console.log(result1);
+//  var result1 = kilometerToMeter(-5);
+//  console.log(result1);
 
 
 //Problem Number Two--------------------------------->
@@ -26,14 +29,14 @@ function budgetCalculator(w,m,l){
     return addition;
 
 }
-var result2 = budgetCalculator(2,3,4);
-console.log(result2);
+// var result2 = budgetCalculator(2,3,4);
+// console.log(result2);
 
 
 
 
 
-//Problem Number Three---------------------------------------------------->
+//Problem Number Three------------------------------------------------>
 
 
 function hotelCost(day){
@@ -57,8 +60,8 @@ function hotelCost(day){
     }
     return stayDay;
 }
-var result3 = hotelCost(23);
-console.log(result3);
+// var result3 = hotelCost(23);
+// console.log(result3);
 
 
 
@@ -77,5 +80,5 @@ function megaFriend(strs) {
 
     
 }
-var result4 = megaFriend(["fahmida","shahnaaz","shimu","ahia","Rahela begum"]);
-console.log(result4);
+// var result4 = megaFriend(["fahmida","shahnaaz","shimu","ahia","Rahela begum"]);
+// console.log(result4);
